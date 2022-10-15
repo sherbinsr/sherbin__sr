@@ -7,8 +7,7 @@
 	margin-top:0;
 	font-family: tahoma;
 	font-size: 30px;
-
-
+}
 
 }
 h8{
@@ -316,10 +315,18 @@ a{
 	
 	background-color: #111;
 	color: #fff;
-	height: 80px;
+	height: 145px;
 	width: 100%;
 	text-align: center;
+	font-size:20px;
+	padding:15px;
 	
+}
+#last
+{
+	color: #fff;
+	text-align: center;
+	font-size:20px;
 }
 .fa-html5{
 
@@ -353,13 +360,32 @@ a{
 
 	color: #3B3131;
 }
-.preloader ul{
+.fa-linkedin
+{
+	color:#0077B5;
+}
+.fa-whatsapp
+{
+   color:#25D366;
+}
+.fa-heart
+{
+ color:red;
+}
+.fa-envelope
+{
+ color:#4285F4,#BB001;
+}
+.fa-telegram
+{
+  color:#0088cc;
+}
+.fa-file
+{
+  color:#FF8C00;
+}
+.fa-school
+{
 
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%,-50%);
-	display: flex;
-
-
+ color:blue;
 }
